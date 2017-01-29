@@ -1,2 +1,3 @@
 # hello-world
-just another hello world
+Greatings humanoids!
+I am not a robot.
